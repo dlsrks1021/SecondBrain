@@ -54,6 +54,7 @@ Topic은 다시 **여러 Partition**으로 나뉜다.
 
 ### Producer
 - Topic에 메시지를 발행
+- [[Serializer]]를 통해 ProducerRecord를 바이트 배열로 변환
 - [[Partitioner]]를 통해 Partition 결정
 - 메시지는 **Partition Leader**에게 전송됨
 
