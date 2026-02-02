@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "503a79dae3d93f34",
+        "id": "19ead3f715e380c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8f710a32d3ce5cc3",
+            "id": "7a69d8c8114ee8f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Producer"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Producer"
             }
           },
           {
@@ -179,8 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "77e64d96f7a2fd6f",
+  "active": "7a69d8c8114ee8f7",
   "lastOpenFiles": [
+    "3-Resource/1-Tech/1-Messaging/Kafka/Kafka.md",
+    "Message.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
+    "Schema.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Producer",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Concepts",
+    "3-Resource/1-Tech/2-Schema/Avro.md",
+    "3-Resource/1-Tech/2-Schema",
+    "3-Resource/1-Tech/1-Messaging",
+    "3-Resource/1-Tech/Kafka/iflink.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka",
+    "3-Resource/1-Tech",
     "4-Archive",
     "3-Resource",
     "2-Area",
