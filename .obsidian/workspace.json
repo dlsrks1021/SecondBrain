@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
+                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Consumer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Producer"
+              "title": "Consumer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
+                "file": "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Consumer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Producer"
+              "title": "Backlinks for Consumer"
             }
           },
           {
@@ -185,13 +185,20 @@
   },
   "active": "7a69d8c8114ee8f7",
   "lastOpenFiles": [
-    "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Partitioner.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Deserializer.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Consumer.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Offset Commit.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Rebalance.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/ConsumerGroup.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer/Configuration.md",
     "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer.md",
-    "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer Tuning.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Partitioner.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Consumer",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Kafka.md",
     "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer Reliability.md",
     "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Serializer.md",
+    "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer Tuning.md",
     "3-Resource/1-Tech/1-Messaging/Kafka/Producer/Producer Flow.md",
-    "3-Resource/1-Tech/1-Messaging/Kafka/Kafka.md",
     "Message.md",
     "Schema.md",
     "3-Resource/1-Tech/1-Messaging/Kafka/Producer",
@@ -205,7 +212,6 @@
     "4-Archive",
     "3-Resource",
     "2-Area",
-    "1-Project",
     "Untitled.canvas",
     "link.md",
     "Welcome.md",
