@@ -45,7 +45,7 @@
 
 을 제공한다.
 
-→ Consumer Group의 구조와 동작 원리: [[ConsumerGroup]]
+→ Consumer Group의 구조와 동작 원리: [[Consumer Group]]
 
 ---
 
